@@ -10,7 +10,7 @@
 
 คำชี้แจง
 
--keras.model.h5 ต้องอยู่ในโฟลเดอร์เดียวกับไฟล์ Finger_count.py
--โฟลเดอร์ test-img ต้องอยู่ในโฟลเดอร์เดียวกับไฟล์ Finger_count.py
--ต้องแตกไฟล์ test-img.7z ก่อน
+-keras.model.h5 ต้องอยู่ในโฟลเดอร์เดียวกับไฟล์ Finger_count.py 
+-โฟลเดอร์ test-img ต้องอยู่ในโฟลเดอร์เดียวกับไฟล์ Finger_count.py 
+-ต้องแตกไฟล์ test-img.7z ก่อน 
 -แหล่งอ้างอิง ดัดแปลงมาจาก https://youtu.be/g4qADQE3IBA
